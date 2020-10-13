@@ -1,0 +1,35 @@
+body{
+    overflow-y: hidden;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%)
+    
+}
+
+.box{
+    width:250px;
+    height:250px;
+    text-align:center;
+    border: 5px solid black;
+    border-radius: 3px;
+    font-size:10rem;
+    font-weight: bold;
+}
+button{
+    width:20%;
+    background-color: blueviolet;
+    padding:10px;
+    font-size:1.5rem;
+    float:left;
+    margin-top:20px;
+}
+
+#winner{
+    visibility:hidden;
+    font-size:4rem;
+    margin-top:10px;
+    color:royalblue;
+    text-align:center;
+    border:3px solid royalblue;
+}
