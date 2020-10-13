@@ -94,7 +94,7 @@ function Game() {
 
 Game();
 
-// Ai coming soon (probably going to use minimax)
+// Ai coming soon .(probably going to use minimax)
 
 
 
